@@ -1,0 +1,8 @@
+{
+  "name": "HYDRO PERSONAL - Prof. Henrique Aquafitness",
+  "description": "Aplicativo para personal trainers de atividades aquáticas: avaliações com histórico, montagem de sessões individualizadas com IA, controle de agenda, pacotes e retenção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
